@@ -1,0 +1,44 @@
+_repo: Five-Children-and-It_778
+creator:
+  author:
+    agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Nesbit, Edith
+    - Bland, Edith Nesbit
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: "Five Children and It is a children's novel by English author E. Nesbit.\
+  \ It was first published as a book in 1902, having been expanded from a series of\
+  \ stories published in the Strand Magazine in 1900 under the general title The Psammead,\
+  \ or the Gifts. It is the first volume of a trilogy that includes The Phoenix and\
+  \ the Carpet (1904) and The Story of the Amulet (1906). The book has never been\
+  \ out of print since its initial publication.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '778'
+  wikidata: Q651866
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Edward VII, 1901-1910 -- Fiction'
+- !lcsh 'Wishes -- Fiction'
+- !lcsh 'Fairies -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcc 'PZ'
+title: Five Children and It
+url: http://www.gutenberg.org/ebooks/778
+wikipedia:
+- https://fr.wikipedia.org/wiki/Une_dr%C3%B4le_de_f%C3%A9e
+- https://ja.wikipedia.org/wiki/%E7%A0%82%E3%81%AE%E5%A6%96%E7%B2%BE
+- https://pt.wikipedia.org/wiki/Five_Children_and_It
+- https://pl.wikipedia.org/wiki/Pi%C4%99cioro_dzieci_i_%E2%80%9Eco%C5%9B%E2%80%9D_(powie%C5%9B%C4%87)
+- https://en.wikipedia.org/wiki/Five_Children_and_It
+- https://es.wikipedia.org/wiki/Cinco_ni%C3%B1os_y_esto
