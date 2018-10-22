@@ -1,5 +1,5 @@
 _repo: Five-Children-and-It_778
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -39,6 +39,7 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Brothers and sisters -- Fiction'
 - !lcc 'PZ'
+- GITenberg
 title: Five Children and It
 url: http://www.gutenberg.org/ebooks/778
 wikipedia:
